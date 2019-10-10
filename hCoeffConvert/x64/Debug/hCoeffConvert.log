@@ -1,0 +1,19 @@
+﻿  MyForm.cpp
+d:\work\visualprojects\univer\hcoeffconvert\hcoeffconvert\myform.h(736): warning C4244: 'initializing': conversion from 'wchar_t' to 'char', possible loss of data
+d:\work\visualprojects\univer\hcoeffconvert\hcoeffconvert\myform.h(743): warning C4244: 'initializing': conversion from 'wchar_t' to 'char', possible loss of data
+d:\work\visualprojects\univer\hcoeffconvert\hcoeffconvert\myform.h(750): warning C4244: 'initializing': conversion from 'wchar_t' to 'char', possible loss of data
+d:\work\visualprojects\univer\hcoeffconvert\hcoeffconvert\myform.h(757): warning C4244: 'initializing': conversion from 'wchar_t' to 'char', possible loss of data
+d:\work\visualprojects\univer\hcoeffconvert\hcoeffconvert\myform.h(818): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\work\visualprojects\univer\hcoeffconvert\hcoeffconvert\myform.h(819): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\work\visualprojects\univer\hcoeffconvert\hcoeffconvert\myform.h(820): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\work\visualprojects\univer\hcoeffconvert\hcoeffconvert\myform.h(822): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\work\visualprojects\univer\hcoeffconvert\hcoeffconvert\myform.h(823): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\work\visualprojects\univer\hcoeffconvert\hcoeffconvert\myform.h(824): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\work\visualprojects\univer\hcoeffconvert\hcoeffconvert\myform.h(826): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\work\visualprojects\univer\hcoeffconvert\hcoeffconvert\myform.h(827): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\work\visualprojects\univer\hcoeffconvert\hcoeffconvert\myform.h(828): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\work\visualprojects\univer\hcoeffconvert\hcoeffconvert\myform.h(830): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\work\visualprojects\univer\hcoeffconvert\hcoeffconvert\myform.h(831): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\work\visualprojects\univer\hcoeffconvert\hcoeffconvert\myform.h(832): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Converter.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  hCoeffConvert.vcxproj -> D:\work\visualprojects\UNIVER\hCoeffConvert\x64\Debug\hCoeffConvert.exe
