@@ -178,7 +178,7 @@ namespace hCoeffConvert {
 				static_cast<System::Byte>(204)));
 			this->h11text->ForeColor = System::Drawing::Color::FromArgb(static_cast<System::Int32>(static_cast<System::Byte>(213)), static_cast<System::Int32>(static_cast<System::Byte>(212)),
 				static_cast<System::Int32>(static_cast<System::Byte>(192)));
-			this->h11text->Location = System::Drawing::Point(189, 57);
+			this->h11text->Location = System::Drawing::Point(59, 57);
 			this->h11text->Name = L"h11text";
 			this->h11text->Size = System::Drawing::Size(100, 48);
 			this->h11text->TabIndex = 4;
@@ -198,7 +198,7 @@ namespace hCoeffConvert {
 				L"10⁻⁶", L"10⁻⁵", L"10⁻⁴", L"10⁻³", L"10⁻²", L"10⁻¹",
 					L"1", L"10¹", L"10²", L"10³", L"10⁴", L"10⁵", L"10⁶"
 			});
-			this->h11box->Location = System::Drawing::Point(59, 57);
+			this->h11box->Location = System::Drawing::Point(189, 57);
 			this->h11box->Name = L"h11box";
 			this->h11box->Size = System::Drawing::Size(95, 32);
 			this->h11box->TabIndex = 5;
@@ -217,7 +217,7 @@ namespace hCoeffConvert {
 				L"10⁻⁶", L"10⁻⁵", L"10⁻⁴", L"10⁻³", L"10⁻²", L"10⁻¹",
 					L"1", L"10¹", L"10²", L"10³", L"10⁴", L"10⁵", L"10⁶"
 			});
-			this->h12box->Location = System::Drawing::Point(59, 137);
+			this->h12box->Location = System::Drawing::Point(189, 137);
 			this->h12box->Name = L"h12box";
 			this->h12box->Size = System::Drawing::Size(95, 32);
 			this->h12box->TabIndex = 7;
@@ -230,7 +230,7 @@ namespace hCoeffConvert {
 				static_cast<System::Byte>(204)));
 			this->h12text->ForeColor = System::Drawing::Color::FromArgb(static_cast<System::Int32>(static_cast<System::Byte>(213)), static_cast<System::Int32>(static_cast<System::Byte>(212)),
 				static_cast<System::Int32>(static_cast<System::Byte>(192)));
-			this->h12text->Location = System::Drawing::Point(189, 137);
+			this->h12text->Location = System::Drawing::Point(59, 137);
 			this->h12text->Name = L"h12text";
 			this->h12text->Size = System::Drawing::Size(100, 48);
 			this->h12text->TabIndex = 6;
@@ -250,7 +250,7 @@ namespace hCoeffConvert {
 				L"10⁻⁶", L"10⁻⁵", L"10⁻⁴", L"10⁻³", L"10⁻²", L"10⁻¹",
 					L"1", L"10¹", L"10²", L"10³", L"10⁴", L"10⁵", L"10⁶"
 			});
-			this->h21box->Location = System::Drawing::Point(59, 217);
+			this->h21box->Location = System::Drawing::Point(189, 217);
 			this->h21box->Name = L"h21box";
 			this->h21box->Size = System::Drawing::Size(95, 32);
 			this->h21box->TabIndex = 9;
@@ -263,7 +263,7 @@ namespace hCoeffConvert {
 				static_cast<System::Byte>(204)));
 			this->h21text->ForeColor = System::Drawing::Color::FromArgb(static_cast<System::Int32>(static_cast<System::Byte>(213)), static_cast<System::Int32>(static_cast<System::Byte>(212)),
 				static_cast<System::Int32>(static_cast<System::Byte>(192)));
-			this->h21text->Location = System::Drawing::Point(189, 217);
+			this->h21text->Location = System::Drawing::Point(59, 217);
 			this->h21text->Name = L"h21text";
 			this->h21text->Size = System::Drawing::Size(100, 48);
 			this->h21text->TabIndex = 8;
@@ -283,7 +283,7 @@ namespace hCoeffConvert {
 				L"10⁻⁶", L"10⁻⁵", L"10⁻⁴", L"10⁻³", L"10⁻²", L"10⁻¹",
 					L"1", L"10¹", L"10²", L"10³", L"10⁴", L"10⁵", L"10⁶"
 			});
-			this->h22box->Location = System::Drawing::Point(59, 297);
+			this->h22box->Location = System::Drawing::Point(189, 297);
 			this->h22box->Name = L"h22box";
 			this->h22box->Size = System::Drawing::Size(95, 32);
 			this->h22box->TabIndex = 11;
@@ -296,7 +296,7 @@ namespace hCoeffConvert {
 				static_cast<System::Byte>(204)));
 			this->h22text->ForeColor = System::Drawing::Color::FromArgb(static_cast<System::Int32>(static_cast<System::Byte>(213)), static_cast<System::Int32>(static_cast<System::Byte>(212)),
 				static_cast<System::Int32>(static_cast<System::Byte>(192)));
-			this->h22text->Location = System::Drawing::Point(189, 297);
+			this->h22text->Location = System::Drawing::Point(59, 297);
 			this->h22text->Name = L"h22text";
 			this->h22text->Size = System::Drawing::Size(100, 48);
 			this->h22text->TabIndex = 10;
@@ -411,7 +411,7 @@ namespace hCoeffConvert {
 			this->label5->AutoSize = true;
 			this->label5->ForeColor = System::Drawing::Color::FromArgb(static_cast<System::Int32>(static_cast<System::Byte>(213)), static_cast<System::Int32>(static_cast<System::Byte>(212)),
 				static_cast<System::Int32>(static_cast<System::Byte>(192)));
-			this->label5->Location = System::Drawing::Point(56, 29);
+			this->label5->Location = System::Drawing::Point(186, 29);
 			this->label5->Name = L"label5";
 			this->label5->Size = System::Drawing::Size(82, 17);
 			this->label5->TabIndex = 20;
@@ -422,7 +422,7 @@ namespace hCoeffConvert {
 			this->label6->AutoSize = true;
 			this->label6->ForeColor = System::Drawing::Color::FromArgb(static_cast<System::Int32>(static_cast<System::Byte>(213)), static_cast<System::Int32>(static_cast<System::Byte>(212)),
 				static_cast<System::Int32>(static_cast<System::Byte>(192)));
-			this->label6->Location = System::Drawing::Point(186, 29);
+			this->label6->Location = System::Drawing::Point(56, 29);
 			this->label6->Name = L"label6";
 			this->label6->Size = System::Drawing::Size(73, 17);
 			this->label6->TabIndex = 21;
